@@ -1,9 +1,8 @@
 
 <div align=center>
-<img alt="daiane-machado-me" src="https://github.com/daiane-machado/daiane-machado/blob/5cd50ca1ceb02387597ea791a3be488e7a8305cf/Pink%20Landscape%20Desktop%20Wallpaper.png"/>
 
 <br><br>
- 🌱 Atualmente estou desenvolvendo uma aplicação web utilizando o Next.js
+ 🌱 Atualmente estou iniciando um app social..
  
 ### Tecnologias
  <div style="display: inline_block">
